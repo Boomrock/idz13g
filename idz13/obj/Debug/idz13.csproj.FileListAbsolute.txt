@@ -1,0 +1,10 @@
+C:\Users\федор\source\repos\idz13\bin\Debug\idz13.exe.config
+C:\Users\федор\source\repos\idz13\bin\Debug\idz13.exe
+C:\Users\федор\source\repos\idz13\bin\Debug\idz13.pdb
+C:\Users\федор\source\repos\idz13\obj\Debug\idz13.csproj.AssemblyReference.cache
+C:\Users\федор\source\repos\idz13\obj\Debug\idz13.Form1.resources
+C:\Users\федор\source\repos\idz13\obj\Debug\idz13.Properties.Resources.resources
+C:\Users\федор\source\repos\idz13\obj\Debug\idz13.csproj.GenerateResource.cache
+C:\Users\федор\source\repos\idz13\obj\Debug\idz13.csproj.CoreCompileInputs.cache
+C:\Users\федор\source\repos\idz13\obj\Debug\idz13.exe
+C:\Users\федор\source\repos\idz13\obj\Debug\idz13.pdb
