@@ -9,12 +9,16 @@ namespace idz13
             InitializeComponent();
             for (int i = 1; i <= 10; i++)
             {
-                label1.Text += i + " " + method(i) + "\n";
+                label1.Text += i + " " + MyClass.method(i) + "\n";
             }
         }
-        public int method(int x)
+       
+    }
+    public class MyClass
+    {
+        static public int method(int x)
         {
-            if(x %2 == 0)
+            if (x % 2 == 0)
             {
                 x = -x;
             }
